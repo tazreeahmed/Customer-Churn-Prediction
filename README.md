@@ -64,6 +64,20 @@ End-to-end data science project analyzing customer churn for a bank using the Ch
 
 ---
 
+## Business Recommendations
+
+**Target inactive members proactively.** Inactive members account for 63.9% of churned customers...
+
+**Develop wealth management offerings for high-balance customers.** Churned customers hold...
+
+**Prioritize retention efforts in Germany.** Geography is significantly associated with churn...
+
+**Age-targeted retention for middle-aged customers.** Churned customers are on average older...
+
+**Deprioritize credit card status as a churn signal.** HasCrCard showed no statistically significant association with churn (p = 0.492)...
+
+---
+
 ## Tools & Libraries
 
 Python, pandas, numpy, matplotlib, seaborn, scipy, scikit-learn, xgboost, catboost, lightgbm
